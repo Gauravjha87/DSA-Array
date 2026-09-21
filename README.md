@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Gauravjha87/DSA-Array/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Gauravjha87/DSA-Array/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravjha87/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Gauravjha87/DSA-Array/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Gauravjha87/DSA-Array/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
