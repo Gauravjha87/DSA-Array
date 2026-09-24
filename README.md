@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Gauravjha87/DSA-Array/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauravjha87/DSA-Array/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravjha87/DSA-Array/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Gauravjha87/DSA-Array/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravjha87/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Gauravjha87/DSA-Array/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauravjha87/DSA-Array/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauravjha87/DSA-Array/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravjha87/DSA-Array/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Gauravjha87/DSA-Array/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Gauravjha87/DSA-Array/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
 ## Interactive
