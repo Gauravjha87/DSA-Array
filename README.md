@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Gauravjha87/DSA-Array/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Gauravjha87/DSA-Array/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Gauravjha87/DSA-Array/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Gauravjha87/DSA-Array/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravjha87/DSA-Array/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gauravjha87/DSA-Array/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Gauravjha87/DSA-Array/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
